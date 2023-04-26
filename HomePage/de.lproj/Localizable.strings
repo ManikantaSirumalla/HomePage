@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  HomePage
+
+  Created by Manikanta Sirumalla on 12/04/23.
+  
+*/
+
+"search" = "Suche";
+"messages" = "Nachrichten";
+"safari" = "Safari";
+"photos" = "Fotos";
+"maps" = "Karten";
+"clock" = "Uhr";
+"music" = "Musik";
+"calculator" = "Rechner";
+"settings" = "Einstellungen";
+"calendar" = "Kalender";
+"weather" = "Wetter";
+"camera" = "Kamera";
+"reminders" = "Erinnerungen";
+"contacts" = "Kontakte";
+"app.store" = "AppStore";
+"news" = "Nachrichten";
+"health" = "Gesundheit";
+"mail" = "Mail";
+"wallet" = "Wallet";
+"phone" = "Telefon";
+"faceTime" = "FaceTime";
+"top.hit" = "Top Treffer";
+"siri.suggestions" = "Siri Vorschläge" ;
+"recent.searches" = "Letzte Suchen" ;

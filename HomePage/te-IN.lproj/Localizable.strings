@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  HomePage
+
+  Created by Manikanta Sirumalla on 12/04/23.
+  
+*/
+
+"search" = "శోధన";
+"messages" = "సందేశాలు";
+"safari" = "సఫారి";
+"photos" = "ఫోటోలు";
+"maps" = "మ్యాప్స్";
+"clock" = "గడియారం";
+"music" = "సంగీతం";
+"calculator" = "కలకులేటర్";
+"settings" = "సెట్టింగ్స్";
+"calendar" = "క్యాలెండర్";
+"weather" = "వాతావరణం";
+"camera" = "కెమెరా";
+"reminders" = "జ్ఞాపకాలు";
+"contacts" = "కాంటాక్ట్స్";
+"app.store" = "యాప్ స్టోర్";
+"news" = "వార్తలు";
+"health" = "ఆరోగ్యం";
+"mail" = "మెయిల్";
+"wallet" = "వాలెట్";
+"phone" = "ఫోన్";
+"faceTime" = "ఫేస్ టైమ్";
+"top.hit" = "టాప్ హిట్";
+"siri.suggestions" = "సిరి సూచనలు";
+"recent.searches" = "ఇటీవల శోధనలు";
